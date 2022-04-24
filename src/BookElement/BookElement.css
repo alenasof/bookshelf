@@ -1,0 +1,17 @@
+.book_container{
+    display: flex;
+    width: 70%;
+    height: 20%;
+}
+
+.book_input{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    align-items:flex-end;
+}
+.book_inner{
+    width:50%;
+}
+
+
